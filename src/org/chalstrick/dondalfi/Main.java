@@ -7,5 +7,7 @@ public class Main {
         + " was called with the following params:");
     for (String p : args)
       System.out.println("param: " + p);
+    
+    System.out.println("Adder.add(3, 7)="+new Adder().add(3, 7));
   }
 }
