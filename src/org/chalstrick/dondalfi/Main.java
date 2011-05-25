@@ -8,4 +8,5 @@ public class Main {
     for (String p : args)
       System.out.println("param: " + p);
   }
+  // some dummy comment
 }
